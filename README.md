@@ -8,17 +8,17 @@ Feeling Low?
 So here is a modern solution that will refresh your mind with positivity and enthusiasm
 
 Josh Quotes Chrome Extension is a CHROME Extension that shows 
-random Quotes with full of josh.
+random Quotes with full of energy.
 
 
 ## Installation
 
-Install my-project on your chrome extension simply by following these steps
+Add this extension to your chrome extension simply by following these steps
 
 ```bash![Screenshot (253)](https://user-images.githubusercontent.com/64543095/198517590-a494b82e-a56e-4a4d-aed6-75fa85cdadcb.png)
 
-  first clone this project to your pc 
-  Then open chrome , tap on three dots on the corner 
+  first clone this project to your using command git clone https://github.com/akshatk806/Josh-Quotes-Chrome-Extension
+  Then open chrome browser, tap on three dots on the corner 
   Select " More Tools " 
   Select " Extensions "
   Then Turn your developer mode ON 
@@ -28,7 +28,6 @@ Install my-project on your chrome extension simply by following these steps
     
 ## Features
 
-- Light mode 
 - Live previews
 - Mood lightner
 - API calls 
@@ -36,8 +35,7 @@ Install my-project on your chrome extension simply by following these steps
 
 ## 📷Screenshot 
 
-![Screenshot (253)](https://user-images.githubusercontent.com/64543095/198517631-3323b981-71fb-43ec-b4f5-aaba31771b1d.png)
-
+<img width="960" alt="Screenshot 2023-03-22 195356" src="https://user-images.githubusercontent.com/106431065/226934538-71ca8576-8d8f-433e-999d-b6f5c46fb8c2.png">
 
 
 ## 🚀 About Me
