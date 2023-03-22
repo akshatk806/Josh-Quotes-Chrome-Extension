@@ -13,7 +13,7 @@ random Quotes with full of energy.
 
 ## Installation
 
-Add this extension to your chrome extension simply by following these steps
+Add this extension to your chrome browser simply by following these steps
 
 ```bash![Screenshot (253)](https://user-images.githubusercontent.com/64543095/198517590-a494b82e-a56e-4a4d-aed6-75fa85cdadcb.png)
 
@@ -38,5 +38,3 @@ Add this extension to your chrome extension simply by following these steps
 <img width="960" alt="Screenshot 2023-03-22 195356" src="https://user-images.githubusercontent.com/106431065/226934538-71ca8576-8d8f-433e-999d-b6f5c46fb8c2.png">
 
 
-## 🚀 About Me
-I'm a full stack developer and a  Competitive Programmer from India
